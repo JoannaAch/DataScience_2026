@@ -19,7 +19,7 @@ Step 4: Add API key to "Secrets" tab and allow notebook access to the secret
 
 
 
-**IGV "real" data:**
+**Sequencing data for importing into IGV:**
 Download a local copy of each of the datasest.
 
 
