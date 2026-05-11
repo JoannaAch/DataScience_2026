@@ -1,5 +1,5 @@
-**Data Science 2026 Workshop - Deep Learning for Regulatory Genomics
-**
+**Data Science 2026 Workshop - Deep Learning for Regulatory Genomics**
+
 Step 1: Request API Key
 https://deepmind.google.com/science/alphagenome/
 
