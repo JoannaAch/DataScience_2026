@@ -15,5 +15,12 @@ Step 4: Add API key to "Secrets" tab and allow notebook access to the secret
 
 <img width="720" height="405" alt="Slide3" src="https://github.com/user-attachments/assets/0e58ff29-dc0b-454b-9789-5a901a16b2e9" />
 
+
+
+
+
 IGV "real" data:
 Download a local copy of each of the datasest.
+
+
+<img width="720" height="405" alt="Slide52" src="https://github.com/user-attachments/assets/13d84008-7271-4344-b151-af023289947d" />
