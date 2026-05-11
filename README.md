@@ -1,5 +1,5 @@
-Data Science 2026 Workshop - Deep Learning for Regulatory Genomics
-
+**Data Science 2026 Workshop - Deep Learning for Regulatory Genomics
+**
 Step 1: Request API Key
 https://deepmind.google.com/science/alphagenome/
 
@@ -19,7 +19,7 @@ Step 4: Add API key to "Secrets" tab and allow notebook access to the secret
 
 
 
-IGV "real" data:
+**IGV "real" data:**
 Download a local copy of each of the datasest.
 
 
