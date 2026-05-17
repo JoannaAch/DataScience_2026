@@ -24,3 +24,9 @@ Download a local copy of each of the datasest.
 
 
 <img width="720" height="405" alt="Slide52" src="https://github.com/user-attachments/assets/13d84008-7271-4344-b151-af023289947d" />
+
+Other links:
+
+UCSC Genome Browser - SNPs in KLK locus: https://genome.ucsc.edu/s/a1236048/hg38_KLK
+Alpha Genome Coverage Explorer: https://alphagenome.explorer.parulkudtarkar.com/
+
